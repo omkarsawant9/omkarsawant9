@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @omkarsawant9
+- 👋 Hi, I’m @omkarsawant
 - 👀 I’m interested in ... programing
 - 🌱 I’m currently learning ... tybscit
 - 💞️ I’m looking to collaborate on ... 
